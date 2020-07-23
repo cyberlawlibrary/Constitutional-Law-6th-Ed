@@ -15,5 +15,5 @@ No annotation tools -- that's something you'll have to use on the publishers' we
 
 # Caution
 
-If you rename files, especially the file of the whole book ("Civil Procedure.html"), the TOC and Index links will break.
+If you rename files, especially the file of the whole book, the links in the TOC and Index files will break.
 The book's appearance will change if you move the html files out of the folder with the file named "style.css" in it.
